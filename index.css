@@ -8,11 +8,6 @@ table {
     height: 100%;
 }
 
-td {
-    width: 10%;
-    height: 10%;
-}
-
 .container {
     display: flex;
     align-items: center;
